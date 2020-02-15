@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "electronics:lit_generator" },
+    "facing=south": { "model": "electronics:lit_generator", "y": 180 },
+    "facing=west":  { "model": "electronics:lit_generator", "y": 270 },
+    "facing=east":  { "model": "electronics:lit_generator", "y": 90 }
+  }
+}

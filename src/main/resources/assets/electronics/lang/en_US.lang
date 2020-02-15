@@ -1,0 +1,19 @@
+# Creative Tabs
+itemGroup.tabElectronics=Electronics
+
+# Blocks
+tile.generator.name=Generator
+tile.lit_generator.name=Generator
+
+# Items
+item.battery.name=Battery
+
+# Containers
+container.generator=Generator
+
+# GUI Text
+gui.text.generator.output=Output: %s EN
+gui.text.generator.current=Current: %s EN
+gui.text.generator.max=Max: %s EN
+gui.text.battery.current=Current: %s EN
+gui.text.battery.max=Max: %s EN

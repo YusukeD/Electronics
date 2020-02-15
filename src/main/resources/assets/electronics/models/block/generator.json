@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "electronics:blocks/generator_top_off",
+    "front": "electronics:blocks/generator_front_off",
+    "side": "electronics:blocks/generator_side_off",
+    "down": "electronics:blocks/generator_bottom"
+  }
+}
